@@ -3,6 +3,7 @@
 ## NJRAT All Versions 👑💎
 
 
-## I disclaim all responsibility for anyone who uses these programs incorrectly❗❗
+## Disclaimer
+This repository is intended for educational purposes only. The information provided here aims to raise awareness about cybersecurity threats and defensive strategies. Misuse of the content is strictly discouraged.❗❗
 
 
